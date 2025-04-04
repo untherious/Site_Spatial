@@ -22497,4 +22497,32 @@ body {
   text-transform: uppercase;
 }
 
+.icones-sociales {
+  display: flex;
+  justify-content: center;
+  gap: 5%;
+  padding-top: 2%;
+}
+
+.icone-sociale {
+  font-size: 30px;
+  color: gray;
+  opacity: 0.6;
+}
+
+.texte-copyright {
+  display: flex;
+  justify-content: center;
+  gap: 3%;
+  color: gray;
+  opacity: 0.6;
+}
+
+.texte-copyright p:nth-child(2) {
+  border-right: 1px solid rgb(156, 153, 153);
+  border-left: 1px solid rgb(156, 153, 153);
+  padding-right: 20px;
+  padding-left: 20px;
+}
+
 /*# sourceMappingURL=style.css.map */
