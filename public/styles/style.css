@@ -22452,7 +22452,7 @@ body {
 }
 
 .banniere {
-  background-image: url("../../../public/img/banner.jpg");
+  background-image: url("../../public/img/banner.jpg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
